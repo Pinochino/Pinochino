@@ -67,6 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
+![GitHub Contribution Snake](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME/blob/output/github-contribution-grid-snake.gif)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinochino&show_icons=true&locale=en&layout=compact" alt="pinochino" /></p>
@@ -74,3 +75,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinochino&show_icons=true&locale=en" alt="pinochino" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinochino&" alt="pinochino" /></p>
+
