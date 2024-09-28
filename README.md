@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pinochino</h1>
 <h3 align="center">A passionate Java fullstack developer from Vietnam</h3>
-<img align="right" src="https://github.com/user-attachments/assets/5b61fb53-b7fb-4289-a39d-8f897b13b700" alt="logo" width='400'/>
+<img  src="https://github.com/user-attachments/assets/5b61fb53-b7fb-4289-a39d-8f897b13b700" alt="logo" width='400'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinochino&label=Profile%20views&color=0e75b6&style=flat" alt="pinochino" /> </p>
 
