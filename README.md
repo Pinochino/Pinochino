@@ -67,7 +67,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
-![GitHub Contribution Snake](https://github.com/Pinochino/Pinochino/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/Pinochino/Pinochino/blob/output/github-contribution-grid-snake.gif)
 
 
 
