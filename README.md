@@ -14,7 +14,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
+<div style="display: flex; justify-content:space-between">
+  <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin-right: 10px;"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a>
@@ -67,6 +69,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 </p>
+</div>
 
 ![snake gif](https://github.com/Pinochino/Pinochino/blob/output/github-contribution-grid-snake.gif)
 
