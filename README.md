@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pinochino</h1>
+<!-- <h1 align="center">Hi 👋, I'm Pinochino</h1>
 <h3 align="center">A passionate Java fullstack developer from Vietnam</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5b61fb53-b7fb-4289-a39d-8f897b13b700" alt="logo" width="400"/>
@@ -71,4 +71,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinochino&show_icons=true&locale=en" alt="pinochino" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinochino&" alt="pinochino" /></p>
-
+ -->
